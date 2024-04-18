@@ -1,6 +1,6 @@
  Hi 👋
   
-  I'm Srikanth Bisai, a full stack web developer based in India. I am pursuing my B.Tech + M.Tech in IT from IIITM Gwalior.
+  I'm Srikanth Bisai, a full stack web developer based in India. I am pursuing my B.Tech + M.Tech in IT from IIIT Gwalior.
 
    
 - 🔭 I’m currently working on a fullstack social media app.
