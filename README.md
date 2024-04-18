@@ -7,4 +7,4 @@
 - 🌱 I’m currently learning AWS and K8S.
 - 👯 I’m looking to collaborate with a company for a fultime role in Fullstack developer position.
 - 📫 How to reach me: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanth-bisai-115a0a202
-- 😄 Pronouns: He/Him
+
