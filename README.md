@@ -4,5 +4,5 @@
 - 🔭 I’m currently building a fullstack freelancing website.
 - 🌱 I’m currently learning NGINX.
 - 👯 I’m looking to collaborate with a company for a fultime role in Fullstack developer position.
-- 📫 How to reach me: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanthbisai
+- 📫 Reach out to me at: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanthbisai
 
