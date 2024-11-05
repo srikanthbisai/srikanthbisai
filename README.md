@@ -5,4 +5,11 @@
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate with a company for a fultime role in Frontend or Fullstack developer position.
 - 📫 Reach out to me at: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanthbisai
+- 👨‍💻 I have a strong interest in optimizing web apps for faster reloads and better-optimized code.
+
+
+
+
+
+
 
