@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate with a company for a fultime role in Frontend or Fullstack developer position.
 - 📫 Reach out to me at: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanthbisai
 - 👨‍💻 I have a strong interest in optimizing web apps for faster reloads and better-optimized code.
--![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=srikanthbisai)
 
 
 
