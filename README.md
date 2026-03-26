@@ -1,10 +1,15 @@
  Hi 👋
   
-"I'm Srikanth Bisai, a Frontend & Full Stack web developer based in India. I hold an Integrated postgraduate degree (B.Tech + M.Tech) in Information Technology from IIIT Gwalior."
-- 🌱 I’m currently learning Golang.
-- 📫 Reach out to me at: srikanthbisai2110@gmail.com , www.linkedin.com/in/srikanthbisai
-- 👨‍💻 I have a strong interest in optimizing web apps for faster loading times and better-optimized code.
+"I'm Srikanth Bisai, a Backend Engineer focused on building distributed and scalable systems.
 
+• Building high-performance APIs, caching layers (Redis), and system-driven backend services  
+• Interested in system design, performance optimization, and backend infrastructure  
+• Currently exploring Go for high-performance systems  
+ 
+ I hold an Integrated postgraduate degree (B.Tech + M.Tech) in Information Technology from IIIT Gwalior."
+ 
+- 📫 Email: srikanthbisai2110@gmail.com , 
+ 🔗 LinkedIn: www.linkedin.com/in/srikanthbisai
 
 
 
