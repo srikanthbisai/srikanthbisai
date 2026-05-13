@@ -6,7 +6,7 @@
 • Interested in system design, performance optimization, and backend infrastructure  
 • Currently exploring Go for high-performance systems  
  
- I hold an Integrated postgraduate degree (B.Tech + M.Tech) in Information Technology from IIIT Gwalior."
+ I hold an Integrated Postgraduate degree (B.Tech + M.Tech) in Information Technology from IIIT Gwalior."
  
 - 📫 Email: srikanthbisai2110@gmail.com , 
  🔗 LinkedIn: www.linkedin.com/in/srikanthbisai
