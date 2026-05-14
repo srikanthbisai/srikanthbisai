@@ -11,7 +11,7 @@
 - 📫 Email: srikanthbisai2110@gmail.com , 
  🔗 LinkedIn: www.linkedin.com/in/srikanthbisai
 
-🎓 IIIT Gwalior '24  
+🎓 IIIT Gwalior' 24  
 📍 Visakhapatnam  
 🎂 21st Oct 1999
 
