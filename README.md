@@ -1,4 +1,4 @@
- Hi 👋
+8 Hi 👋
   
 "I'm Srikanth Bisai, a Backend Engineer focused on building distributed and scalable systems.
 
@@ -13,7 +13,7 @@
 
 🎓 IIIT Gwalior' 24  
 📍 Visakhapatnam  
-🎂 21st Oct 1999
+
 
 
 
