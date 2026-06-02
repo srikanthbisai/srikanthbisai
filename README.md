@@ -1,4 +1,4 @@
-8 Hi 👋
+ Hi 👋
   
 "I'm Srikanth Bisai, a Backend Engineer focused on building distributed and scalable systems.
 
